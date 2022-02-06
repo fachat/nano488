@@ -37,7 +37,8 @@ Here are the design files:
 - [Eagle schematics](v1.1b/nano_ieee488_v1.1b.sch)
 - [Eagle layout](v1.1b/nano_ieee488_v1.1b.brd)
 - [Schematics picture](v1.1b/nano_ieee488_v1.1b-sch.png)
-- [Board layout](nano_ieee488_v1.1b-layout.png)
+- [Board parts layout](v1.1b/nano_ieee488_v1.1b-layout.png)
+- [Board full layout](v1.1b/nano_ieee488_v1.1b-brd.png)
 
 
 ### V1.0B
@@ -53,7 +54,8 @@ Here are the design files:
 - [Eagle schematics](v1.0b/nano_ieee488_v1.0b.sch)
 - [Eagle layout](v1.0b/nano_ieee488_v1.0b.brd)
 - [Schematics picture](v1.0b/nano_ieee488_v1.0b-sch.png)
-- [Board layout](nano_ieee488_v1.0b-layout.png)
+- [Board parts layout](v1.0b/nano_ieee488_v1.0b-layout.png)
+- [Board full layout](v1.0b/nano_ieee488_v1.0b-brd.png)
 
 ## Gallery
 
