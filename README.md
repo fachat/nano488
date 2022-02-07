@@ -39,6 +39,7 @@ Here are the design files:
 - [Schematics picture](v1.1b/nano_ieee488_v1.1b-sch.png)
 - [Board parts layout](v1.1b/nano_ieee488_v1.1b-layout.png)
 - [Board full layout](v1.1b/nano_ieee488_v1.1b-brd.png)
+- [Gerber files](v1.1b/nano_ieee488_v1.1b-gerbers.zip)
 
 
 ### V1.0B
